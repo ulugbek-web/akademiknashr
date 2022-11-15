@@ -1,18 +1,68 @@
-header div a{
- background-color: #FF7500;
- color: #fff;
+.user-link{
+  font-size: 20px;
+  line-height: 15px;
+  background-color: #FF7500;
+  color: #fff;
+  text-decoration: none;
 }
-section div a{
+.widget .widget-link{
+  font-size: 20px;
+  line-height: 15px;
   background-color: #FF7500;
   color: #Fff;
+  text-decoration: none;
 }
-section div{
+.naw .naw-list .naw-item{
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000;
+}
+.naw-item .naw-link{
+  text-decoration: none;
+}
+.widget{
   background-color: #252420;
   color: #fff;
 }
-footer{
+.widget-content{
+  width: 390px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+}
+.down{
   background-color: #f9e9F9;
 }
-.test{
-  text-decoration: none;
+.hero{
+  width: 80px;
+  height: 3px;
+  background-color: #ff7500;
+}
+.widget-title{
+  width: 390px;
+  font-size: 40px;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+}
+.news-content{
+  width: 440px;
+  font-size: 60px;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+}
+.news-title{
+  font-weight: 100px;
+  font-size: 30px;
+  line-height: 150%;
+  letter-spacing: 0.5px;
+}
+.new-text{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.5px;
 }
