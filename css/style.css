@@ -23,6 +23,7 @@
 }
 .naw-item .naw-link{
   text-decoration: none;
+  color: #000;
 }
 .widget{
   background-color: #252420;
@@ -55,14 +56,31 @@
   letter-spacing: 0.5px;
 }
 .news-title{
-  font-weight: 100px;
   font-size: 30px;
-  line-height: 150%;
+  line-height: 1.2;
   letter-spacing: 0.5px;
 }
 .new-text{
-  font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.5px;
+  line-height: 1.5;
+}
+.news-item .news-img{
+  width: 70px;
+  height: 70px;
+  background-color: rgba(255, 117, 0, 0.2);
+}
+.new-item{
+  width: 340px;
+}
+.promo{
+  color: #FF7500;
+}
+.true{
+  height: 2px;
+  background-color: rgba(37, 36, 32, 0.5);
+}
+.naw-list{
+  font-size: 16px;
+  line-height: 19px;
+  list-style: none;
 }
