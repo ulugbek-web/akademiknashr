@@ -1,3 +1,8 @@
+body{
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Roboto', sans-serif;
+}
 .user-link{
   font-size: 20px;
   line-height: 15px;
@@ -48,12 +53,14 @@
   font-size: 40px;
   line-height: 1.2;
   letter-spacing: 0.5px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .news-content{
   width: 440px;
   font-size: 60px;
   line-height: 1.2;
   letter-spacing: 0.5px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .news-title{
   font-size: 30px;
